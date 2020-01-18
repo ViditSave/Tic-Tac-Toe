@@ -1,9 +1,18 @@
-﻿# Tic-Tac-Toe
+# Tic-Tac-Toe
 
-A two player game of Tic-Tac-Toe in Python using Tkinter module
+Tic-tac-toe is a two-player game, X and O, who take turns marking their signs on a 3×3 grid. The first player to place three of his/her marks in a vertical, horizontal, or diagonal line wins the game. The project uses the Tkinter Module, which is a standard Python interface to the Tk GUI toolkit. Tkinter is an excellent choice to develop small and quick GUI applications.
 
-Tic-tac-toe  also known as noughts and crosses is a game for two players X and O, who take turns marking the spaces in a 3×3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game.
+## Code Execution example:
 
-Tkinter module is used for the project which is a standard Python interface to the Tk GUI toolkit. Tkinter is excellent for small, quick GUI applications.
+### 1. O Wins
+<img src="https://github.com/ViditSave/Tic-Tac-Toe/blob/master/GIF/O%20Wins.gif" width="400">
 
-Because of the simplicity of tic-tac-toe is often used as a tool for teaching the concepts of good sportsmanship and the branch of artificial intelligence that deals with the searching of game trees.
+***
+
+### 2. X Wins
+<img src="https://github.com/ViditSave/Tic-Tac-Toe/blob/master/GIF/X%20Wins.gif" width="400">
+
+***
+
+### 3. Draw
+<img src="https://github.com/ViditSave/Tic-Tac-Toe/blob/master/GIF/Match%20Draw.gif" width="400">
